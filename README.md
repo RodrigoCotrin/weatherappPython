@@ -3,7 +3,7 @@
 ## Sobre esse projeto 💡
 
 
-Projeto desenvolvido em python com intuito de aprender mais sobre o consumo de api
+Projeto independente desenvolvido em python com intuito de aprender mais sobre o consumo de api
 
 #### <strong>Status: </strong>Concluído ✔️
 
