@@ -7,7 +7,7 @@ Projeto independente desenvolvido em python com intuito de aprender mais sobre o
 
 #### <strong>Status: </strong>Concluído ✔️
 
-![DoceCantinho](imagemprojeto.png)
+![Imagemprojeto](imagemprojeto.png)
 
 # Tecnologias utilizadas 💻
 
